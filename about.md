@@ -25,4 +25,4 @@ Estudiante de la facutad de Ciencias Matematicas y Fisicas de la Universidad de 
 
 ### Contact me
 
-[email@domain.com](mailto:tedwintorres17@gmail.com)
+[tedwintorres17@gmail.com](mailto: tedwintorres17@gmail.com)
