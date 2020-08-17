@@ -13,5 +13,5 @@ La inteligencia artificial (IA) es la combinacion de algoritmos planteados con e
 **Sistemas que piensan racionalmente:** intentan emular el pensamiento logico racional de los humanos, es decir, se investiga como lograr que las maquinas puedan percibir,razonar y actuar en consecuencia.
 **Sistemas que actuan racionalmente:** idealmente, son aquellos que tratan de imitar de manera rcional el comportamiento humano, como los agentes inteligentes.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![inteligencia artificial]
 
