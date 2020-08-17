@@ -1,11 +1,17 @@
 ---
 layout: post
-title: Mi primer blog
+title:  la inteligencia artificial
 ---
 
-este es mi primer articulo 
-## Seccion 1
-bla bla bla
 
-### Seccion 2
-fsfwegwegrehegefgwdwa
+## a que se define por inteligencia artificial
+La inteligencia artificial (IA) es la combinacion de algoritmos planteados con el proposito de crear maquinas que presenten las mismas capacidades que el ser humano. Una tecnologia que todaia nos resulta lejana y misteriosa, pero que desde hace unos años esta presente en nuestro dia a dia a todas horas.
+
+### Tipos de Inteligencia Artificial
+**Sistemas que piensan como humanos:** automatizan actividades como la toma de decisiones, la resolucion de problemas y  el aprendisaje.
+** Sistemas que actuan como humanos:**  se  trata de coputadoras que realizan tareas de forma simila a como lo haven las personas.
+**Sistemas que piensan racionalmente:** intentan emular el pensamiento logico racional de los humanos, es decir, se investiga como lograr que las maquinas puedan percibir,razonar y actuar en consecuencia.
+**Sistemas que actuan racionalmente:** idealmente, son aquellos que tratan de imitar de manera rcional el comportamiento humano, como los agentes inteligentes.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
