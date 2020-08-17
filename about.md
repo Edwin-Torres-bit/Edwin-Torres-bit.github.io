@@ -16,7 +16,9 @@ Estudiante de la facutad de Ciencias Matematicas y Fisicas de la Universidad de 
 
 ### More Information
 
-**Eestudios**
+**Estudios**
+
+
 **primaria:** Escuela fiscal mixta "Daniel Torres Ponce".
 
 **secundaria:** Unidad Educativa "Carlos Estarrellas Aviles".
