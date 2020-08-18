@@ -30,6 +30,8 @@ Una base de datos es un "almacen" que nos permite guardar gandes cantidades de i
 
 8.Acceso a traves de lenguajes de programacion estandar.
 
+![base de datos] (https://github.com/Edwin-Torres-bit/Edwin-Torres-bit.github.io/blob/master/images/base-de-datos-min-e1523470739502.jpg)
+
 
 
 
