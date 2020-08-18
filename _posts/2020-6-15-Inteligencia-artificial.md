@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  la inteligencia artificial
+title:  La inteligencia artificial
 ---
 
 
-## a que se define por inteligencia artificial
+## ¿A que se define por inteligencia artificial?
 La inteligencia artificial (IA) es la combinacion de algoritmos planteados con el proposito de crear maquinas que presenten las mismas capacidades que el ser humano. Una tecnologia que todaia nos resulta lejana y misteriosa, pero que desde hace unos años esta presente en nuestro dia a dia a todas horas.
 
 ### Tipos de Inteligencia Artificial
