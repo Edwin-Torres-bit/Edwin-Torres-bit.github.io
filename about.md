@@ -23,7 +23,7 @@ Estudiante de la facutad de Ciencias Matematicas y Fisicas de la Universidad de 
 
 **secundaria:** Unidad Educativa "Carlos Estarrellas Aviles".
 
-**estudios universitarios:** Universidad de Guayaqil.
+**estudios universitarios:** Universidad de Guayaquil.
 
 ### Contact me
 
