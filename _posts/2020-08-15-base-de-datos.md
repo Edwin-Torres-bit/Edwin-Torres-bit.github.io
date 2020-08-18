@@ -29,3 +29,6 @@ Una base de datos es un "almacen" que nos permite guardar gandes cantidades de i
 7.Respaldo y recuperacion.
 
 8.Acceso a traves de lenguajes de programacion estandar.
+
+![base de datos]{{{site.baseurl}} /images/Inteligencia_746x419.jpeg.jpg}
+
