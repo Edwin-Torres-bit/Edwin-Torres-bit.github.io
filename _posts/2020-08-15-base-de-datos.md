@@ -8,11 +8,11 @@ title: Las bases de datos.
 ---
 
 
-##¿Que son las bases de datos?
+## ¿Que son las bases de datos?
 
 Una base de datos es un "almacen" que nos permite guardar gandes cantidades de informacion de forma organizada para que luego podamos econtrar y utilizar facilmente. Tambien se define como un sistema formado por un conjunto de datos almacenadosen disco que permiten el acceso directo a ellos y un conjunto de programas que manipulen ese conjunto de datos.
 
-##caracteristicas:
+## Caracteristicas:
 
 1.Independencia logica y fisica de los datos.
 
