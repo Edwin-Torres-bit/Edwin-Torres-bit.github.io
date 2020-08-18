@@ -30,9 +30,4 @@ Una base de datos es un "almacen" que nos permite guardar gandes cantidades de i
 
 8.Acceso a traves de lenguajes de programacion estandar.
 
-![base de datos]{{{site.baseurl}} /images/Inteligencia_746x419.jpeg.jpg}
-
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
