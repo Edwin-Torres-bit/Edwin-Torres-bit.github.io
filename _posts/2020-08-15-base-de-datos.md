@@ -31,3 +31,5 @@ Una base de datos es un "almacen" que nos permite guardar gandes cantidades de i
 8.Acceso a traves de lenguajes de programacion estandar.
 
 
+
+
